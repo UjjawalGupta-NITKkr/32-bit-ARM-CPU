@@ -9,7 +9,7 @@
 <img src="Images/Control Unit.jpg" alt="Alt Text" width="900" height="500">
 
 ## Controller
-<img src="Images/Controller.jpg" alt="Alt Text" width="900" height="500">
+<img src="Images/controller.jpg" alt="Alt Text" width="900" height="500">
 
 
 ## Decoder Logic
@@ -23,6 +23,6 @@
 <img src="Images/Decoder_combinational_Logic.jpg" alt="Alt Text" width="900" height="500">
 
 ## Bigger Picture
-<img src="top_module.jpg" alt="Alt Text" width="900" height="500">
+<img src="Images/top_module.jpg" alt="Alt Text" width="900" height="500">
 
 
