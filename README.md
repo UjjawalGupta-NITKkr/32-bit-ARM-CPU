@@ -1,6 +1,6 @@
 # 32-bit-ARM-CPU
 ## Instruction Set of ARM architecture 
-<img src="Images/Instruction Set.jpg" alt="Alt Text" width="1500" height="700">
+<img src="Images/InstructionSet.jpg" alt="Alt Text" width="1500" height="700">
 
 ## Data Path
 <img src="Images/Data_Path.jpg" alt="Alt Text" width="1500" height="700">
