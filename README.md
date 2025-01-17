@@ -14,7 +14,7 @@
 
 
 
-## Decoder and Combinational block (CONTROLLER)
+## Decoder and Combinational block (CONTROLLER EXPANDED)
 <img src="Images/Decoder.jpg" alt="Alt Text" width="1200" height="500">
 <img src="Images/Decoder_combinational_Logic.jpg" alt="Alt Text" width="900" height="500">
 
