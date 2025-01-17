@@ -25,6 +25,6 @@
 <img src="Images/ALU_Decoder_Working.jpg" alt="Alt Text" width="700" height="400">
 
 ## Bigger Picture
-<img src="Images/top_module.jpg" alt="Alt Text" width="1400" height="500">
+<img src="Images/top_module.jpg" alt="Alt Text" width="1400" height="700">
 
 
